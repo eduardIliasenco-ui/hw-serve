@@ -1,0 +1,12 @@
+{
+  "name": "hw-serve",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-specifier-resolution=node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
